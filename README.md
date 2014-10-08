@@ -1,6 +1,6 @@
 ## What's this
 This is an addon starter template for the [Ionic Framework](http://ionicframework.com/).
-I'm trying to make SideMenu and Tabs working together the best way.
+I'm trying to make SideMenu and Tabs working together the best way, keeping the total separation between views. There's a fork example (and many others you can find on codepen) that injects the view into the <tab> code. It's [here](http://codepen.io/benallfree/pen/JLehx), but it's not the proof of this repo.
 
 There's an article about what I'm doing [here](http://codepen.io/mircobabini/developer/ionic-sidemenu-tabs) and the working pen [here](http://codepen.io/mircobabini/pen/gLkli).
 
