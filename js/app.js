@@ -29,7 +29,7 @@ angular.module('ionicApp', ['ionic'])
       url: "/facts",
       views: {
         'home-tab': {
-          templateUrl: "ftemplates/acts.html"
+          templateUrl: "templates/facts.html"
         }
       }
     })
